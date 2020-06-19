@@ -1,0 +1,3 @@
+/cygdrive/d/Program/C++/Assignment/utf2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/d/Program/C++/Assignment/utf2/cmake-build-debug/CMakeFiles/utf2.dir
+/cygdrive/d/Program/C++/Assignment/utf2/cmake-build-debug/CMakeFiles/edit_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/utf2.dir/testUTF8string.cpp.o CMakeFiles/utf2.dir/UTF8string.cpp.o CMakeFiles/utf2.dir/utf8.c.o  -o utf2.exe -Wl,--out-implib,libutf2.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

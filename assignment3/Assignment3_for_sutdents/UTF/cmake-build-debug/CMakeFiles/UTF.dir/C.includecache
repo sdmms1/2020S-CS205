@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/d/Program/C++/Assignment/UTF/main.c
+stdio.h
+-
+utf8.c
+/cygdrive/d/Program/C++/Assignment/UTF/utf8.c
+
+/cygdrive/d/Program/C++/Assignment/UTF/utf8.c
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+ctype.h
+-
+utf8.h
+/cygdrive/d/Program/C++/Assignment/UTF/utf8.h
+
+/cygdrive/d/Program/C++/Assignment/UTF/utf8.h
+
